@@ -53,11 +53,6 @@ switch does not support long, float, and double, because the original design of 
 // switch (x) { // Incompatible types. Found: 'long', required: 'char,
 byte, short, int, Character, Byte, Short, Integer, String, or an enum'
 //
-//
-//
-//
-//
-//
 // }
 case 111:
     System.out.println(111);
